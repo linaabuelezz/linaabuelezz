@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning React, Next.js and Node.js
 - 💞️ I’m looking to collaborate on creating interesting and useful fullstack projects.
 - 📫 How to reach me: @linaabuelezz on most platforms
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I played semiprofessional soccer for over 7 years!
 
 
