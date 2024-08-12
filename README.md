@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Lina</h1>
 <h3 align="center">A passionate frontend developer from Egypt, looking to become fullstack.</h3>
 
