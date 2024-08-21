@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Resume builder**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js and ASP.net**
 
 - 🤝 I’m looking for help with **Backend**
 
