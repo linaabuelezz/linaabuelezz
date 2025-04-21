@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lina</h1>
 <h3 align="center">A passionate frontend developer from Egypt, looking to become fullstack.</h3>
 
-- 🔭 I’m currently working on **Resume builder**
+- 🔭 I’m currently working on **Uoguelph.courses**
 
-- 🌱 I’m currently learning **Next.js and ASP.net**
+- 🌱 I’m currently learning **Python, TypeScript, ASP.net**
 
 - 🤝 I’m looking for help with **Backend**
 
